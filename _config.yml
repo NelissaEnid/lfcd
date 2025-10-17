@@ -19,13 +19,13 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 ##########
 # SITE SETTINGS
 #
-# Colección Digital Lizza Fernanda
+# Coleccion Digital Lizza Fernanda
 title: CollectionBuilder-GH 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Archivo sobre Luis Felipe Díaz / Lizza Fernanda
+tagline: Archivo sobre Luis Felipe Diaz / Lizza Fernanda
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "La Coleccion Lizza Fernanda consiste de fotografías, videos, auidos y documentos sobre la vida del profesor Luis Felipe Díaz"
+description: "La Coleccion Lizza Fernanda consiste de fotografias, videos, auidos y documentos sobre la vida del profesor Luis Felipe Diaz"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Archivo Digital Lizza Fernanda
 
